@@ -39,5 +39,5 @@
       "https://www.jiomart.com/images/product/original/590004102/brinjal-purple-striped-500-g-0-20201118.jpg",
     price: 6,
     category: "vegetables",
-  }
-]
+  },
+];
